@@ -7,4 +7,6 @@ This project could be applied to predict the sentiment of all reviews ranging fr
 
 Back-end:LSTM model coded on Python 3.6
 
-Front-end:Flask 
+Front-end:HTML and CSS 
+
+Flask microframework used to Deploy the Web Application.
